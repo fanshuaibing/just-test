@@ -1,5 +1,6 @@
 .idea
-.history/
+.history
+.gitignore
 *.iml
 out
 gen
