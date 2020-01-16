@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="312093fe-5c91-4481-b326-45fc62ebc5d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+=======
+>>>>>>> 8f10007e44dab744c8a26ddd0d1554f57b1612b5
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +97,7 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="67" y="174" key="MergeDialog" timestamp="1579166028256">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -102,6 +106,16 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="647" y="412" width="770" height="587" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579166028266" />
+=======
+    <state x="67" y="174" key="MergeDialog" timestamp="1578993604668">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="67" y="174" key="MergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578993604668" />
+    <state x="647" y="412" width="770" height="587" key="MultipleFileMergeDialog" timestamp="1578993604706">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="647" y="412" width="770" height="587" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578993604706" />
+>>>>>>> 8f10007e44dab744c8a26ddd0d1554f57b1612b5
     <state x="473" y="272" key="Vcs.Push.Dialog.v2" timestamp="1578993636788">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -110,6 +124,7 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="726" y="484" key="git4idea.merge.GitMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579051505302" />
+<<<<<<< HEAD
     <state x="822" y="445" key="git4idea.rebase.GitRebaseDialog" timestamp="1579165770570">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -126,5 +141,7 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="632" y="428" key="git4idea.ui.GitUnstashDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579165801996" />
+=======
+>>>>>>> 8f10007e44dab744c8a26ddd0d1554f57b1612b5
   </component>
 </project>
